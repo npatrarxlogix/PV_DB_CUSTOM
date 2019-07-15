@@ -1,0 +1,1 @@
+connect &USERRX./&USERRX_PWD.@&DB. ;

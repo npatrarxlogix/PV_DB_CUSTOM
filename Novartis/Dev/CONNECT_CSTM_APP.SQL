@@ -1,0 +1,1 @@
+connect &USERVX./&USERVX_PWD.@&DB. ;

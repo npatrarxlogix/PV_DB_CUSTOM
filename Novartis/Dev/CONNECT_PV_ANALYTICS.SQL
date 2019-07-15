@@ -1,0 +1,1 @@
+connect &USERPVA./&USERPVA_PWD.@&DB. ;

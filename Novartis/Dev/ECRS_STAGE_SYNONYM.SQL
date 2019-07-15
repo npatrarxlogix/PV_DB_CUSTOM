@@ -1,0 +1,7 @@
+BEGIN
+
+   EXECUTE IMMEDIATE 'CREATE OR REPLACE SYNONYM ecrs_addl FOR &&USERTX..ecrs_addl';
+   EXECUTE IMMEDIATE 'CREATE OR REPLACE SYNONYM vw_ecrs_addl FOR &&USERTX..vw_ecrs_addl';
+
+END;
+/

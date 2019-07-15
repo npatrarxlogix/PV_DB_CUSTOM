@@ -1,0 +1,6 @@
+BEGIN
+
+   EXECUTE IMMEDIATE 'CREATE OR REPLACE SYNONYM ecrs_addl FOR &&USERVX..ecrs_addl';
+
+END;
+/

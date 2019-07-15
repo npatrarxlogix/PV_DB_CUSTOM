@@ -1,0 +1,1 @@
+grant select on ecrs_addl to &USERTX. with grant option;
