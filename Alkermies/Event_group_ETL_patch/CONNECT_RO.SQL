@@ -1,0 +1,1 @@
+connect &USERRO./&USERRO_PWD.@&DB. ;

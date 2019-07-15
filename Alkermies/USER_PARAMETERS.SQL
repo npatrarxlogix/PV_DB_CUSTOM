@@ -1,0 +1,7 @@
+--Enter the database name
+--DEFINE DB=''
+DEFINE DB='10.100.22.212:1521/PVRDEMO'
+--Enter name for MART USER
+DEFINE USERTX='PVD_MART_DLP'
+--Enter name for APP USER
+DEFINE USERTXAPP='PVR_APP_DLP'

@@ -1,0 +1,7 @@
+--Enter the database name
+--DEFINE DB=''
+DEFINE DB='10.248.0.185:1521/PVDHDEV'
+--Enter name for STAGE USER
+DEFINE USERST='PVD_STAGE_1'
+--Enter name for RO USER
+DEFINE USERRO='RO_PVD_STAGE'

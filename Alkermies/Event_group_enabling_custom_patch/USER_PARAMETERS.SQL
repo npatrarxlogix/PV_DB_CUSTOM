@@ -1,0 +1,9 @@
+--Enter the database name
+--DEFINE DB=''
+DEFINE DB='10.100.6.19:1521/MARTDEV'
+--Enter name for MART USER
+DEFINE USERTX='IA_APP_03'
+--Enter name for APP USER
+DEFINE USERTXAPP='IA_APP_02'
+--Enter name for STAGE USER
+DEFINE USERST='IA_STAGE_03'

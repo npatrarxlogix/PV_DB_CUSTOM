@@ -1,0 +1,6 @@
+BEGIN 
+
+EXECUTE IMMEDIATE ' grant select on VW_LEG_GROUP_CSTM TO &USERTXAPP.';
+
+END; 
+/ 

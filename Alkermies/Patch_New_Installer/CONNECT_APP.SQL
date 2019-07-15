@@ -1,0 +1,1 @@
+connect &USERTXAPP./&USERTXAPP_PWD.@&DB. ;
